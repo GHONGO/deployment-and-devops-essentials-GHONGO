@@ -1,3 +1,5 @@
+**Please note this project is still ongoing
+
 # Deployment and DevOps for MERN Applications
 
 This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.
